@@ -2,7 +2,7 @@
 🚨此网站并非作者 @pw-hxss 所创🚨  
 [https://www.example.com/](https://www.example.com/)
 
-![Sample Image For EV.io](https://github.com/pw-hxss/customCrosschair/blob/main/ev.io%20sample.png)
+![Sample Image network menu](https://github.com/pw-hxss/networkPerformances/blob/main/network%20menu%20sample.png)
 
 # 使用教程🎥
 🚨此视频并非作者 @pw-hxss 所创🚨  
